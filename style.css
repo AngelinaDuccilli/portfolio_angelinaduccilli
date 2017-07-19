@@ -1,0 +1,57 @@
+body{
+  background-color: white; 
+}
+h1{
+    font-family: Snell Roundhand;
+    color: #ff99cc; 
+    font-size: 50px;
+    display: inline;
+    float: left;
+    padding-right: 40px;
+    margin-top: 5px;
+}
+
+p{
+    text-align: left;
+    float: left;
+}
+
+#nav{
+    text-align: right;
+}
+ul{
+   
+    list-style-type: none;
+    margin: 64;
+    position: fixed;
+    top: -5%;
+    width: 90%;
+    color: #8c8c8c;
+}
+li{
+    color:black;
+    font-family: Gerogia;
+    font-size: 20px;
+    display: inline;
+    float: right;
+    padding-right: 40px;
+}
+
+h2{
+  color:  #262626;
+    text-align: center; 
+   padding-top: 180px;
+   font-weight: normal;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
